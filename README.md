@@ -1,3 +1,3 @@
 "# CryptoCampare" 
 
-CryptoCompare Djatable
+CryptoCompare jDataTable
